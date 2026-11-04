@@ -10,7 +10,7 @@ I'm a Master of Artificial Intelligence student at the University of Auckland, w
 - **[ZEIL Show Your Skills](https://github.com/laizhen1/zeil-show-your-skills)** — A hackathon prototype that helps applicants demonstrate their skills through short, realistic work scenarios.
 - **[RewindAI](https://github.com/laizhen1/RewindAI)** — A local learning workspace for finding and reviewing timestamped moments in lecture videos. Under development and evaluation.
 - **SizzleLens** — A cooking assistant in development that combines visual ingredient detection, guided recipes and bilingual voice interaction. *Private repository.*
-- **KANSAITOM** — A bilingual corporate website built with Vue, with an online enquiry system and administration tools. *Private repository.*
+- **KANSAITOM** — A bilingual corporate website individually designed by myself, built with Vue, with an online enquiry system and administration tools.Feel free to visit! (https://www.kansaitom.com/en) *Private repository.*
 
 **Tools I work with:** Python, TypeScript, React, Vue, PyTorch, FastAPI, RAG and MCP.
 
